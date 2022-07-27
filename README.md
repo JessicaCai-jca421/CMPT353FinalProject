@@ -13,11 +13,11 @@ these chained restaurants automatically and to visualize their density relative 
 ### Install Packages in the Computer Prompt
 
 ```
-* pip install folium
-* pip install pillow
-* pip install exifread
-* pip install GPSphoto
-* pip install piexif
+pip install folium
+pip install pillow
+pip install exifread
+pip install GPSphoto
+pip install piexif
 ```
 
 ### Dependencies 
